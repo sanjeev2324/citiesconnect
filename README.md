@@ -14,26 +14,26 @@ About the API :
 
           URL
 
-          http://localhost:9009/connected?origin=city1h&destination=city2
+                http://localhost:8080/connected?origin=city1h&destination=city2
 
           Method:
 
-          GET 
+                GET 
 
           URL Params
 
       
-          Required:
+                  Required:
 
-          origin=[String]
-          
-          destination=[String]
+                  origin=[String]
+
+                  destination=[String]
 
 
           Success Response:
 
-          A String either saying 'yes' or 'no'
-          Code: 200
+                  A String displaying saying 'yes' or 'no'
+                  Code: 200
           
 
 Building,  running tests and test coverage :
