@@ -63,6 +63,7 @@ public class ConnectionService {
 		}
 		catch(IOException e) {
 			
+			LOGGER.error("Error ecnountered in processTextFile");			
 			e.printStackTrace();
 		}
 		
