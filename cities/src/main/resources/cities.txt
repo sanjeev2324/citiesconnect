@@ -1,0 +1,7 @@
+Boston, New York
+New York, Atlanta
+Atlanta, Miami
+Phoenix, San Diego
+Trenton, Pittsburgh
+Pittsburgh, Cleveland
+
